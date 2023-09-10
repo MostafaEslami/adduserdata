@@ -1,0 +1,8 @@
+displayName: Add User Data 
+summary: Add User Data to Header.
+type: middleware
+import: https://github.com/MostafaEslami/adduserdata.git
+compatibility: TODO
+testData:
+  Regex:
+    - "^/foo(.*)"
