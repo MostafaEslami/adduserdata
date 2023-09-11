@@ -1,7 +1,7 @@
 displayName: Add User Data 
 summary: Add User Data to Header.
 type: middleware
-import: https://github.com/MostafaEslami/adduserdata.git
+import: https://github.com/MostafaEslami/adduserdata
 compatibility: TODO
 testData:
   Regex:

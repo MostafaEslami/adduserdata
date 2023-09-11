@@ -1,3 +1,3 @@
-module github.com/MostafaEslami/adduserdata.git
+module github.com/MostafaEslami/adduserdata.git 
 
 go 1.15
